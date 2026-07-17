@@ -48,7 +48,6 @@ It is a modern and responsive **E-Commerce website** featuring an attractive use
 
 # 📸 Project Preview
 
-> Replace `screenshot.png` with your project screenshot.
 
 <p align="center">
 
