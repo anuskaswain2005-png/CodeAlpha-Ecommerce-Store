@@ -52,7 +52,7 @@ It is a modern and responsive **E-Commerce website** featuring an attractive use
 
 <p align="center">
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](screenshot.png.png)
 
 </p>
 
